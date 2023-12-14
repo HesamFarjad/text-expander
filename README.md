@@ -29,8 +29,7 @@ The TextExpander component renders a div containing the display text and a butto
 The button's text and appearance change dynamically based on the current state. It toggles between showing more or less text when clicked.
 Usage in App Component:
 The App component renders three instances of the TextExpander component with different content and configurations to demonstrate its usage.
-In summary, the code provides a flexible and reusable React component (TextExpander) that allows users to toggle between an expanded and collapsed view of text, with customizable button text and styling. The App component demonstrat![Uploading Screenshot 2023-12-14 at 18.51.35.png…]()
-es the usage of this text expander with different pieces of text and configurations.
+In summary, the code provides a flexible and reusable React component (TextExpander) that allows users to toggle between an expanded and collapsed view of text, with customizable button text and styling. The App component demonstrates the usage of this text expander with different pieces of text and configurations.
 
 
 
